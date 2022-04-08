@@ -199,7 +199,7 @@ def read_data(line):
 			coords.append([list(coords_1[kn])[1],list(coords_1[kn])[0],0,0,t,rm_type[t]]) 
 		p=0
 		for c in range(len(coords)-1):
-			walls.append([coords[c][0],coords[c][1],coords[c+1][0],coords[c+1][1],coords[c][5],coords[c][4]])
+			walls.append([coords[c][0],coords[c][1],coords[c+1][0],coords[c+1][1],-1,coords[c][5],coords[c][4],-1,0])
 		p=len(coords)-1
 		poly.append(p)		
 	tmp=img[:,:,1]
@@ -272,7 +272,7 @@ def read_data(line):
 			coords.append([list(coords_1[kn])[1],list(coords_1[kn])[0],0,0,t,17]) 
 		p=0
 		for c in range(len(coords)-1):
-			walls.append([coords[c][0],coords[c][1],coords[c+1][0],coords[c+1][1],17,len(rms_type)+coords[c][4]-dec])
+			walls.append([coords[c][0],coords[c][1],coords[c+1][0],coords[c+1][1],-1,17,len(rms_type)+coords[c][4]-dec,-1,0])
 			doors.append([coords[c][0],coords[c][1],coords[c+1][0],coords[c+1][1]])
 		p=len(coords)-1
 		poly.append(p)
@@ -326,7 +326,7 @@ def read_data(line):
 			coords.append([list(coords_1[kn])[1],list(coords_1[kn])[0],0,0,t,15]) 
 		p=0
 		for c in range(len(coords)-1):
-			walls.append([coords[c][0],coords[c][1],coords[c+1][0],coords[c+1][1],15,rmpn+len(rms_type)+coords[c][4]-dec])
+			walls.append([coords[c][0],coords[c][1],coords[c+1][0],coords[c+1][1],-1,15,rmpn+len(rms_type)+coords[c][4]-dec,-1,0])
 			doors.append([coords[c][0],coords[c][1],coords[c+1][0],coords[c+1][1]])
 		p=len(coords)-1
 		poly.append(p)
