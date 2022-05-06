@@ -1,0 +1,58 @@
+value,COUNT(*)
+b'AGV rum',8
+b'Afsnitsk\xc3\xb8kken',11
+b'Arbejdsstation',4
+b'Beh.-/obs.pladser',22
+b'Behandlerkontor',1
+b'B\xc3\xb8rnestue',1
+b'Cafe',2
+b'Depot',21
+b'Elev.01',17
+b'Elev.03',13
+b'Elev.04',2
+b'Elevator',9
+b'Etagek\xc3\xb8kken',4
+b'Forberedt for r\xc3\xb8rpost',22
+b'Forrum',4
+b'Gangbane',1
+"b'Garderobe, Niche, kontorkoncept'",2
+b'Gruppekontor',17
+b'Hjertestarter',3
+b'Hvile',1
+b'K-boks',9
+b'Kommunikationsrum',10
+"b'Kontor, Storrum'",12
+"b'Kopi/print, kontorkoncept'",2
+b'Korridor',34
+b'Lager',1
+"b'Lederkontor, 2 pl.'",20
+b'Multifunktionsrum',4
+"b'M\xc3\xb8derum, Lille'",4
+"b'M\xc3\xb8derum, Stor, kontorkoncept'",7
+b'Niche',4
+"b'Niche, Overv\xc3\xa5gning'",9
+b'Opstilling',1
+b'Opvask',4
+b'Patientstue',234
+b'Personaleophold',11
+b'Reception',4
+b'Ren zone',30
+b'Reng\xc3\xb8ringsrum',14
+b'R\xc3\xb8rpost',7
+"b'Samtale-/fordyb.modul, kontorkoncept'",6
+b'Samtalerum',14
+b'Skakt VVS',14
+b'Skakt VVS/Ventilation',7
+b'Skakt ventilation',13
+b'Taskeskab',3
+b'Teamrum',6
+b'Teknikrum',12
+b'Teknikrum EL',4
+b'Terapirum',15
+b'Toilet',49
+b'Toilet/bad',256
+b'Trappe',15
+b'Unders\xc3\xb8gelses og behandlingsrum',2
+"b'Undervisning og auditorie, kontorkoncept'",1
+b'Undervisnings- og grupperum',4
+b'Uren zone',16

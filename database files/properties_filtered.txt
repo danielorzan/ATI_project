@@ -1,0 +1,440 @@
+name
+01 Floor 1
+01 Floor 1 (default)
+02 Floor 2
+02 Floor 2 (default)
+03 Floor 3
+03 Floor 3 (default)
+04 Floor 4
+04 Floor 4 (default)
+
+AB Circumference
+AB Floor Area CFA
+AB Floor Area GFA
+AB Floor Area NFA
+AB Living Area
+AB Net Area
+AB Room Calculation Factor
+AB Room Group ID
+AB Room ID
+AB Room Reduction Fixed 
+AB Room Reduction Proportional
+AB Subarea Element ID
+AB Subarea Factor
+AB Subarea ID
+AB Subarea Sign ID
+AB Unfinished Area
+
+Apertura
+Area
+Area Type
+
+Base Constraint
+Base Extension Distance
+
+Building Name
+
+Camera Position
+Category
+
+Circumference
+
+Column Locations per Segment
+
+Construction
+Construction Type
+
+Frame
+
+FrameWidth
+
+Gross Area
+
+LeftDistance
+
+Length
+
+Living Area
+Location Line
+
+Net Area
+
+Occupied Area
+
+OHPT_180428_UpdateIntensiveCare
+OHPT_AbsoluteGradient
+OHPT_AccessPointRescueTeam
+OHPT_ADK_Keypad
+OHPT_ADK_Reader
+OHPT_ADK_Scenary
+OHPT_AirTightDoors
+OHPT_Area
+OHPT_AutomaticOpener
+OHPT_Blackout
+OHPT_Blackout_TE
+OHPT_BoltNumber
+OHPT_CanKeepOpen
+OHPT_CanLock
+OHPT_CanOpenAndClose
+OHPT_CeilingType
+OHPT_CladdingWidth
+OHPT_Class-Hyg-Blackout
+OHPT_Classification
+OHPT_CodeLocationElevator
+OHPT_Contract
+OHPT_CounterwallWidth
+OHPT_CountWindow
+OHPT_CS-Length
+OHPT_CS-Width
+OHPT_CurtainArea
+OHPT_CW-Door
+OHPT_CW-Height
+OHPT_CW-Width
+OHPT_CylinderKA
+OHPT_DaylightCheck
+OHPT_DaylightControl
+OHPT_DaylightControl_TE
+OHPT_Department
+OHPT_DepLoad
+OHPT_Description
+OHPT_DirectionOpening
+OHPT_Door Bringing strategy
+OHPT_DoorAGVFlow
+OHPT_DoorBumpers
+OHPT_DoorClosers
+OHPT_DoorClosingSystem
+OHPT_DoorColor
+OHPT_DoorGlass-Dimension
+OHPT_DoorGlassWindow-Area
+OHPT_DoorGlassWindow-Height
+OHPT_DoorGlassWindow-Width
+OHPT_DoorSelector
+OHPT_DoorStandardizationProposal
+OHPT_DoorStopper
+OHPT_Door_Level
+OHPT_Door_Room
+OHPT_Door_Tender
+OHPT_dRofusSyncDate
+OHPT_EFF
+OHPT_ElectricalMagneticLock
+OHPT_ElevatorGroup
+OHPT_ElevatorID
+OHPT_ElevatorLevelsServed
+OHPT_ElevatorRoofAccess
+OHPT_ElevatorRunHight
+OHPT_ElevatorType
+OHPT_EmergencyExitSystem
+OHPT_Encumber-Radius
+OHPT_Entrance
+OHPT_FireClosingSystem
+OHPT_floorDrain-slope_TE
+OHPT_FloorSlope
+OHPT_FloorStriker
+OHPT_FootButton
+OHPT_FrameHeight
+OHPT_FrameWidth
+OHPT_Frum
+OHPT_Frum_WorkArea
+OHPT_Genopretning2018
+OHPT_GlassArea
+OHPT_GlassHeight
+OHPT_GlassWidth
+OHPT_Handle
+OHPT_Handle_External
+OHPT_HazardClassFire
+OHPT_Height
+OHPT_Height_Clearance
+OHPT_Hor
+OHPT_Hsf-E
+OHPT_ID
+OHPT_IndoorCurtain_TE
+OHPT_IndoorNoiseLimit
+OHPT_IntegratedCurtain_TE
+OHPT_Intercom
+OHPT_InteriorHandle_Inward
+OHPT_InteriorHandle_Outward
+OHPT_Interlock
+OHPT_Inward
+OHPT_Inward_Leaf_Left
+OHPT_Inward_Leaf_Right
+OHPT_Issues
+OHPT_Issues-Level1
+OHPT_Issues-Level2
+OHPT_IW_Height
+OHPT_IW_Width
+OHPT_Leaf_Left
+OHPT_Leaf_Right
+OHPT_Level1
+OHPT_LevelKitchen
+OHPT_LogisticsZone
+OHPT_LTatto
+OHPT_MachineryLoadMAX_Ceiling
+OHPT_MachineryLoadMAX_Floor
+OHPT_MachineryLoad_Ceiling
+OHPT_MachineryLoad_Floor
+OHPT_MagneticContact
+OHPT_MedicalGroupType
+OHPT_MediGasKliniskeOgØvrigeRum
+OHPT_MediGasLabs
+OHPT_MotorizedOpening
+OHPT_NetArea
+OHPT_NetHeight
+OHPT_NetWidth
+OHPT_NewLayout
+OHPT_OpenablePanelCount
+OHPT_OpeningSide
+OHPT_OptimizedCeilingHeight
+OHPT_Outward
+OHPT_Outward_Leaf_Left
+OHPT_Outward_Leaf_Right
+OHPT_PageNumber
+OHPT_Paintwork
+OHPT_PrefabicatedAssemblyElement
+OHPT_PrefabricatedToiletType
+OHPT_PushBar
+OHPT_PushButton
+OHPT_Radar
+OHPT_RaisedDoor
+OHPT_RA_Afdeling
+OHPT_RA_Afdeling EN
+OHPT_RA_Afdeling IT
+OHPT_RA_Ceiling Height
+OHPT_RA_Check
+OHPT_RA_Cooling Check
+OHPT_RA_Glazed surface
+OHPT_RA_HEPA
+OHPT_RA_Name EN
+OHPT_RA_Name IT
+OHPT_RA_No Window
+OHPT_RA_Object Description EN
+OHPT_RA_Object Description IT
+OHPT_RA_Object Type EN
+OHPT_RA_Object Type IT
+OHPT_RA_Rumtegninger standard
+OHPT_RA_URL-Rumtegninger standard
+OHPT_RA_Zone Category EN
+OHPT_RA_Zone Category IT
+OHPT_Rdepth
+OHPT_RelevantArea
+OHPT_RelevantAreaRooms
+OHPT_RoomNumber
+OHPT_RoomNumber_nPanels
+OHPT_RoomsIDVoid
+OHPT_RoomToRoom
+OHPT_ScenaryEquipment
+OHPT_ScenaryType
+OHPT_ScreeningForInsight
+OHPT_SecurityZone
+OHPT_ShadingQuantity_TE
+OHPT_Shaft
+OHPT_Sikringszone
+OHPT_Sill_Area
+OHPT_Sill_Height
+OHPT_Sill_Width
+OHPT_SolarExposure
+OHPT_SolarShading
+OHPT_SpecialPressureGradient
+OHPT_SpecialRequest
+OHPT_SpecialWidth
+OHPT_StandardisedToiletType
+OHPT_StandardRoomCode
+OHPT_StatusBH
+OHPT_StatusOHPT
+OHPT_Tlp
+OHPT_TouchlessSensor
+OHPT_Transmission
+OHPT_TypeDoor
+OHPT_TypesDoorCode
+OHPT_Update
+OHPT_VentilationGrid
+OHPT_Vh
+OHPT_Voh
+OHPT_Vsf
+OHPT_Vsf_L-E
+OHPT_Vsf_R-E
+OHPT_WallThickness
+OHPT_WallType
+OHPT_WallWindowsThickness
+OHPT_Warnings
+OHPT_WetRoom
+OHPT_Width
+OHPT_Width_Clearance
+OHPT_WindowBuilding
+OHPT_WindowLevel
+OHPT_WIP
+OHPT_WIPLayout
+OHPT_WithGlassWindow
+OHPT_WR
+
+OUH Behandlingshoejde
+OUH Synkronisering Dato
+OUH Tegningshenvisning
+OUHFireExit
+OUH_AcusticKilderum
+OUH_AnesthesiaSuction_AGS
+OUH_Argon_LAB_Ar
+OUH_AutomaticDoorOpener
+OUH_AVSU source code
+OUH_BHU
+OUH_BHU&BED
+OUH_BioIsolationClass
+OUH_BSLclass
+OUH_Carbondioxid_CO2
+OUH_Carbondioxid_LAB_CO2
+OUH_CeilingHeight
+OUH_CompressedAir_LAB_APL
+OUH_CompressedAir_Medical_APM
+OUH_CompressedAir_Technical_APT
+OUH_ControlledAccess
+OUH_DaylightRequirements
+OUH_DaylightRequirementsTE
+OUH_DK-DaylightCheck
+OUH_DocsOnDrofus
+OUH_DoorELScenaryProposal
+OUH_DrawingReference
+OUH_dRofusDrenInput
+OUH_ElectricalPanelboard
+OUH_F-Gas_LAB
+OUH_FaradayCage
+OUH_FaradyCage
+OUH_Fire-Section
+OUH_FireResistance
+OUH_FloorScreedToFall
+OUH_Gas-requested
+OUH_Gas-Type
+OUH_GMOclass
+OUH_GMPClass
+OUH_Helium_LAB_He
+OUH_Hv Max
+OUH_Hydrogen_LAB_H2
+OUH_InteriorCourt
+OUH_InterlockedDoor
+OUH_InternalWindow
+OUH_ISOClass
+OUH_LeadShielding
+OUH_LeaveDoorOpen
+OUH_LockableDoor
+OUH_Loop
+OUH_Material
+OUH_MedGroupBH
+OUH_MedGroupCHECKcode
+OUH_MedGroupCHECKcolor
+OUH_MedGroupdRofus
+OUH_MedGroupMAIN
+OUH_MedicalElectricalSafety
+OUH_MedicalGasesUpdate
+OUH_Medicinsk_område_d
+OUH_MG-AGS
+OUH_MG-APM
+OUH_MG-AZM
+OUH_MG-CO2
+OUH_MG-DIS
+OUH_MG-N2O
+OUH_MG-O2
+OUH_NIRclassCurrent
+OUH_NIRclassPreparation
+OUH_Nitrogen_LAB_N2
+OUH_NitrousOxide_N2O
+OUH_Open_Issue
+OUH_OT_SensibleRoom
+OUH_Outfitting
+OUH_Oxygen_LAB_O2
+OUH_Oxygen_Medical_O2
+OUH_People#Max
+OUH_People#Normal
+OUH_PermanentWorkplace
+OUH_PermanentWorkplaceTE
+OUH_ProgrammedArea
+OUH_ProximityRelationships
+OUH_QkDesign
+OUH_RadiationProtected
+OUH_RadiationProtected-Door
+OUH_RadiationProtected-InternalWindow
+OUH_RadioactiveSubstances
+OUH_RoomName
+OUH_RoomNumber
+OUH_Rumnummer_31-01-17
+OUH_SafetyMedicalGroup
+OUH_Security zone_Proposal
+OUH_Special-Pressure-Gradient
+OUH_SpecialCleaning
+OUH_SpecialDoorWidth
+OUH_SpecialPressureGradient
+OUH_SpecialRoomTemperature
+OUH_SR-Code
+OUH_TG-APL
+OUH_TG-APT
+OUH_TG-Ar
+OUH_TG-AZT
+OUH_TG-CO2Tech.
+OUH_TG-Fgas
+OUH_TG-He
+OUH_TG-LIN
+OUH_TG-MIX
+OUH_TG-N2
+OUH_TG-O2
+OUH_Vacuum_Dental_AZD
+OUH_Vacuum_Medical_AZM
+OUH_Vacuum_Medical_LAB_AZL
+OUH_Vacuum_Technical_AZT
+OUH_VerifyDaylightRequirment
+OUH_WallFinish_Code
+OUH_Ward
+OUH_WindowOnDoor
+OUH_WindowRequirements
+OUH_WindowTypology
+
+P1_GlassArea
+P2_GlassArea
+
+Perimeter
+
+Plan 1
+Plan 2
+Plan 3
+Plan 4
+
+Ref line width
+
+RightDistance
+
+Room Bounding
+Room Cavity Ratio
+Room Group Name
+Room Name
+Room Number
+RoomID
+RoomNumber
+
+Shaft Lenght
+Shaft Width
+
+Sheet Width
+
+TB_1.DPXX-ProjectID
+TB_2.XX-BuildingsN
+TB_3.KXX-KnowledgeArea
+TB_4.MXX-Discipline
+TB_5.HX-SheetType
+TB_6.EXX-Storey
+TB_7.NXXX-SerialNumber
+TB_8.Description1
+TB_8.Description2
+
+Top Extension Distance
+
+Total width
+
+WBS_L.1-Contract
+WBS_L.2-Site
+WBS_L.3-Building
+WBS_L.4-Level
+WBS_L.5-Department
+WBS_L.6-Zone
+WBS_L.7-ProjectCategory
+WBS_L.8-CategoryWork
+WBS_L.8-CategoryWork-Description
+Width
+
+X
+Y

@@ -113,7 +113,6 @@ def sort_corners(corners ,k_d):
 	return coords
 
 
-# removed 3 out of the 5 entries in walls after coordinates, they were all equal
 def read_data(line):
 	poly=[]
 	img = np.asarray(Image.open(line))
