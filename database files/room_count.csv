@@ -1,0 +1,292 @@
+value,COUNT(*)
+b'Manuel vask',1
+"b'Opstilling, Senge'",1
+b'B\xc3\xb8rnestue',1
+b'Tryktank',1
+"b'Kontor, OP-koordinator og multifunktion'",1
+b'Forsendelse',1
+"b'Vente, Decentalt, (15-30m2)'",1
+b'Pakkeplads',1
+b'Dosisplanl\xc3\xa6gning',1
+b'Cytostatika til afhentening',1
+b'Karant\xc3\xa6nelager',1
+b'Opbevaring',1
+b'Dosisdispensering',1
+"b'Toilet, HC'",1
+b'Cellem\xc3\xa6rkning',1
+b'Varemodtagelse',1
+b'CATO',1
+"b'Ren zone, Elevator'",1
+b'Vaskeri',1
+b'Klarg\xc3\xb8ring',1
+"b'Sluse, Person'",1
+b'KFE',1
+b'Teknikrum vand',1
+b'Pladelager',1
+b'T\xc3\xa6ller',1
+b'Fordelingsgang',1
+b'Renografi',1
+b'Optr\xc3\xa6k',1
+b'Overfladebehandling',1
+b'F\xc3\xa6rdigg\xc3\xb8relse',1
+b'Mobilt r\xc3\xb8ntgen',1
+"b'Depot, Udstyr, 20-30m3'",1
+"b'Depot, Udstyr, 30-40m3'",1
+b'Renserum',1
+b'Brobygger',1
+b'Telefonkonsultation',1
+b'AGV Vogn',1
+b'Lederkontor',1
+b'Observation',1
+b'Demonstrationsrum',1
+b'Pr\xc3\xb8vemodtagelse',1
+b'Ceremonirum',1
+b'Kirkerum',1
+b'Inkubatorrum',1
+b'Mastermix-rum',1
+b'Retur flasker',1
+b'Tappelokale',1
+b'Rituel afvaskning',1
+b'Auditorie',1
+b'Dialyse',1
+b'Teknikerrum',1
+b'Apoteksudsalg',1
+b'Observationsgang',1
+b'K\xc3\xb8leskabs-/Frysekabsrum',1
+b'R\xc3\xb8rpost patronvasker',1
+b'Kloning',1
+b'WASP',1
+b'Podning',1
+b'Vandanl\xc3\xa6g',1
+b'Komponentproduktion',1
+b'Refleksions-/bederum',1
+b'Lejlighed',1
+b'Tunnel',1
+b'Rampe',1
+b'HE farvning og scannerrum',1
+b'Kontrastering',1
+b'Elektronmikroskop',1
+b'Buffetomr\xc3\xa5de',1
+b'Self-care enhed',1
+b'Instrukt\xc3\xb8rrum',1
+b'Disp',1
+b'Klinisk vejleder',1
+b'Foto',1
+b'Tarmbakteriol. & Parasitol.',1
+b'Pr\xc3\xa6-PCR',1
+"b'Gruppekontor, Samtalerum nye donorer'",1
+b'H\xc3\xa6matologi',1
+b'Butik',1
+b'Konferencemikroskop',1
+"b'Mikroskopi, 1 arb pl'",1
+"b'M\xc3\xb8derum, Mellem, 16 pl.'",1
+b'Fremvisningsrum',1
+b'Kantinek\xc3\xb8kken',1
+"b'Gruppekontor, Samtalerum donorinterview'",1
+b'H\xc3\xa5ndtering',1
+b'Klarg\xc3\xb8ring/bedemand',1
+b'Pr\xc3\xb8vebehandling',1
+b'Kloningsrum',1
+b'Pr\xc3\xb8veh\xc3\xa5ndtering',1
+b'Forberedelse for r\xc3\xb8rpost',1
+"b'Toilet/bad, Handicap'",2
+"b'Toilet/bad, Patientstue'",2
+"b'Reception, m. gruppekontor, 15-20 m2'",2
+b'Datacentral',2
+b'Implantater',2
+b'Splidserum',2
+b'Hj\xc3\xa6lpemiddellager',2
+b'Gennemf\xc3\xb8ring',2
+"b'R\xc3\xb8rpost, Niche'",2
+b'Elev.03G',2
+b'Uniform',2
+b'Reng\xc3\xb8ringsrum (4-10m2)',2
+b'L\xc3\xa6rerv\xc3\xa6relse',2
+b'Pauserum',2
+b'Tr\xc3\xa6ningssal',2
+b'L\xc3\xa6ringscenter',2
+b'Sk\xc3\xa6rmet omr\xc3\xa5de',2
+b'Puderum',2
+b'Legeterapi',2
+"b'Depot, Udstyr, 20-30m2'",2
+b'Kvalitetskontrol',2
+b'Produktion',2
+"b'Betjeningsrum, 2 pl.'",2
+b'Teknikkerrum',2
+b'Produktionsforberedelse',2
+b'Room',2
+b'Undervisning og auditorie',2
+b'Caf\xc3\xa9\xc3\xb8',2
+b'Udbl\xc3\xa6sningsrum',2
+b'Modtagefunktion',2
+b'Betjeningsrum',2
+b'Teknikrum afl\xc3\xb8b',2
+b'Afhentning',2
+b'V\xc3\xa6vsdyrkning',2
+b'Undervisn.lab.',2
+"b'Sluse, LAB'",2
+b'Holdrum',2
+b'\xc3\x86glaboratorie',2
+"b'Omkl\xc3\xa6dning, Personale (0-10m2)'",2
+b'Spiseomr\xc3\xa5de',2
+b'Amplifikation',2
+b'Reng\xc3\xb8ringsrum (15-29m2)',2
+"b'Omkl\xc3\xa6dning, Personale (type 8)'",2
+b'Reng\xc3\xb8ring',3
+"b'Depot, Udstyr, 0-10m2'",3
+b'Vanskelige luftveje',3
+b'Vask',3
+"b'Depot, Udstyr, 10-20m3'",3
+"b'Gruppekontor, 2 pl.'",3
+b'Injektionsrum',3
+b'Udlevering',3
+b'Kontrolrum',3
+b'Hjerte\xc3\xa5bningsberedskab',3
+b'Modtagelse',3
+b'Fryserum',3
+b'Escaveyor',3
+b'Mikroskopi',3
+b'Sektionsstue',3
+b'PCR',3
+b'Gangbane',4
+b'R\xc3\xb8rpostcentraler',4
+b'Blodk\xc3\xb8leskab',4
+b'Sanserum',4
+b'Front office',4
+b'Kommandocentral',4
+b'Studierum',4
+b'Celledyrkning',4
+b'Operat\xc3\xb8rrum',4
+b'Bad',4
+b'Sk\xc3\xa6ring',4
+b'Pippetering',4
+b'Udsk\xc3\xa6ring',4
+b'POCT-rum',4
+b'Farvning',4
+b'AGV ladestation',4
+b'Vejerum',4
+b'Maskinrum',5
+b'Udstyrsvask',5
+b'Buffetvogne',5
+b'Pr\xc3\xb8vetagningsvogne',5
+b'Forskning',5
+b'Triagerum',5
+b'Autounloade',5
+b'Fluorescens',5
+b'L\xc3\xa6gevask',6
+b'Skopvask',6
+b'Observationsomr\xc3\xa5de',6
+"b'Patientstue, F\xc3\xb8destue'",6
+b'Motionsrum',6
+b'Garderobe',6
+b'Klasse D lokale',6
+b'Teknikrum ventilation',6
+b'Kontor',6
+b'Affaldsrum',6
+"b'R\xc3\xb8rpost, gennemgang'",6
+b'Apparaturrum',6
+b'M\xc3\xa6lkek\xc3\xb8kken',7
+b'Pr\xc3\xa6parationsrum',7
+b'Taskeskabe',7
+"b'Analyse, Stor, 4 pl.'",7
+b'Debriefingsrum',7
+b'Hvile',8
+b'Testrum',8
+b'Morgue',8
+"b'Mikroskopi, 2 arb pl'",8
+"b'Lederkontor, 1 pl.'",8
+b'Reng\xc3\xb8ringsrum (0-3m2)',8
+b'Vidensstr\xc3\xb8g',8
+"b'Depot, Udstyr, 10-20m2'",9
+b'K\xc3\xb8lerum',9
+b'Beskriverrum',9
+b'R\xc3\xa5rum',9
+b'Vaskerum',10
+b'Etagek\xc3\xb8kken',11
+"b'Personaleophold, 30-45 m2'",11
+b'Undervisnings- og grupperum',12
+b'Observationsstue',12
+b'L\xc3\xa6gemiddelproduktion',12
+b'Simulationsrum',12
+b'Akutgang',13
+b'Samtale-/fordyb.modul',13
+b'K\xc3\xb8leskabs-/fryseskabsrum',14
+b'Overv\xc3\xa5gning',14
+b'Opvask',15
+b'Behandlerkontor',17
+"b'Undervisning og auditorie, kontorkoncept'",17
+b'Kopi/print',17
+b'Elev.04',18
+b'Behandlerplads',18
+b'Grupperum',18
+b'Multifunktionsrum',19
+b'V\xc3\xa6rksted',19
+b'M\xc3\xb8derum',20
+b'Opholdsrum',20
+b'F\xc3\xb8destue',20
+b'Skakt',21
+"b'Analyse, 3 pl.'",21
+b'Vindfang',22
+b'P\xc3\xa5r\xc3\xb8renderum',22
+b'Kommunikationsrum',23
+b'Klyngestr\xc3\xb8g',26
+b'Undervisning',27
+b'Reception',28
+"b'Garderobe, Niche, kontorkoncept'",28
+b'Pr\xc3\xb8vetagning',29
+b'Uniformer',30
+"b'Kontor, Storrum'",30
+b'Arbejdsstation',32
+"b'Kopi/print, kontorkoncept'",34
+b'Terapirum',36
+"b'Toilet/bad, personale'",40
+b'Cafe',40
+"b'Samtale-/fordyb.modul, kontorkoncept'",44
+b'Opstilling',46
+b'Bufferlager',46
+b'Lager',49
+"b'M\xc3\xb8derum, Lille'",49
+"b'Niche, Overv\xc3\xa5gning'",51
+b'Hjertestarter',54
+b'Afsnitsk\xc3\xb8kken',56
+b'Dagbehandling',56
+b'Skakt ventilation',57
+b'Vagtv\xc3\xa6relse',57
+b'Teknikrum EL',57
+b'Analyse',57
+b'AGV rum',59
+b'Forberedelse',63
+b'Teamrum',63
+b'Beh.-/obs.pladser',67
+b'Skakt VVS',69
+b'Laboratorium',77
+"b'M\xc3\xb8derum, Stor, kontorkoncept'",81
+b'Personaleophold',83
+b'Niche',84
+b'Skakt EL',84
+b'Elev.01',87
+b'Elev.03',93
+b'Sluse',97
+b'R\xc3\xb8rpost',109
+b'Elevator',109
+b'Omkl\xc3\xa6dning',116
+b'Vente',118
+b'Taskeskab',122
+b'Forberedt for r\xc3\xb8rpost',140
+b'Reng\xc3\xb8ringsrum',146
+b'Trappe',157
+b'Skakt VVS/Ventilation',158
+b'Uren zone',191
+b'Samtalerum',199
+b'Forrum',217
+b'Depot',231
+"b'Lederkontor, 2 pl.'",236
+b'K-boks',300
+b'Ren zone',312
+b'Teknikrum',321
+b'Gruppekontor',357
+b'Unders\xc3\xb8gelses og behandlingsrum',446
+b'Korridor',637
+b'Patientstue',650
+b'Toilet/bad',1043
+b'Toilet',1203
